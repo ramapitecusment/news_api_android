@@ -10,8 +10,8 @@ For convenience, classes were moved to different packages: models and interactio
 with RecyclerView, adapters were placed in the “Adapters”package.
 Name of the app is“NEWS APP " (figure – 1). The app also has a Splash Screen.
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/master/images/1.png)
-![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/master/images/2.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/main/images/1.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/main/images/2.png)
 
 For user convenience, 3 tabs were created: Top Headlines, Everything and “Read later".
 
@@ -28,12 +28,14 @@ When you click on the heart, the news will be added to the database and automati
 Read later fragment when the user goes to 3 tab. When you click the heart in Read later, the news 
 will be immediately deleted and when you click the “Delete all news” button, all news will be deleted.
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/master/images/3.png)
-![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/master/images/4.png)
-![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/master/images/5.png)
-![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/master/images/6.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/main/images/3.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/main/images/4.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/main/images/5.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/main/images/6.png)
 
 When the user clicks on the news card, a new activity will automatically open, where the user can 
 view the news in more detail. The news' page source will be loaded using WebView.
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/master/images/7.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/news_api_android/main/images/7.png)
+
+//TODO: Threading
